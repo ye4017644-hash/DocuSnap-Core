@@ -21,4 +21,4 @@ A smart web platform that acts as an "AI Secretary". Users upload documents (PDF
 - [ ] **Phase 4:** Add Database to save user data.
 
 ---
-*Created by [Your Name] - Computer Science Student @ Moscow Poly*
+*Created by Youssef Elraby - Computer Science Student
